@@ -1,0 +1,54 @@
+🤖 Política de Privacidad - Bot Pedrito IA
+
+Esta política describe cómo Bot Pedrito, una inteligencia artificial medio desquiciada pero con buen corazón (a veces), maneja tus datos. Spoiler: no chusmeamos tu vida, pero sí usamos lo justo para que Pedrito no se vuelva aún más loco.
+
+1. 🧠 ¿Qué es Pedrito?
+Pedrito es un bot de Discord con IA. Responde preguntas, genera textos, tira chistes malos y a veces se sale del guion como si tuviera alma. Las respuestas pueden ser:
+
+Aleatorias
+
+Sarcasmo, humor negro o respuestas no aptas para todo público :v
+
+Generadas por un modelo de inteligencia artificial, a veces usando servicios externos.
+
+2. 📥 ¿Qué datos se recopilan?
+Pedrito puede recolectar y procesar:
+
+Tu ID de usuario y servidor, para funcionalidades básicas.
+
+Contenido de los mensajes que envías al bot, solo para generar respuestas.
+
+Logs temporales de comandos, para mejorar la experiencia (no es un stalker, bro).
+
+Si se usa una API externa de IA (como OpenAI o similares), tu mensaje puede ser enviado a esa API para recibir una respuesta.
+
+3. 🔐 ¿Se guarda algo?
+No guardamos conversaciones completas, solo lo necesario para que el bot responda.
+
+Si usas sistemas con memoria (como niveles, economía o respuestas personalizadas), se puede guardar info básica en una base de datos.
+
+No recolectamos datos personales reales (nombre completo, correos, contraseñas, etc.).
+
+4. 🌐 IA de terceros
+Si Pedrito usa servicios de IA externos, como OpenAI o similares:
+
+Tus mensajes pueden ser enviados a esas APIs para generar respuestas.
+
+Esas empresas pueden tener sus propias políticas de privacidad.
+
+Pedrito no controla lo que esas empresas hacen, así que tenlo en cuenta.
+
+5. 🧹 ¿Se puede borrar la info?
+Sí. Puedes pedir que se elimine tu información relacionada con el bot (comandos, puntajes, datos temporales) mediante un comando como /borrar-datos o contactando al desarrollador.
+
+6. 🧒 Menores de edad
+Pedrito no está diseñado para menores de edad, ni por su contenido ni por su sentido del humor. Si eres menor de [13/16], este bot no es para ti, loco.
+
+7. 🛡️ Seguridad
+Se toman medidas razonables para proteger los datos, pero recuerda que no hay sistema perfecto. Si hay algún problema de seguridad, se avisará públicamente.
+
+8. 🔄 Cambios en la política
+Esta política puede cambiar si Pedrito aprende algo nuevo, se vuelve más turbio o simplemente evoluciona. Los cambios se publicarán donde sea necesario.
+
+Al usar Bot Pedrito, aceptas esta política. Si no te gusta que una IA medio loca lea tus mensajes para responderte con chistes de dudoso gusto, mejor no lo uses :v
+
